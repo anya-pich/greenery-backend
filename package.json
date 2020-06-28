@@ -1,0 +1,19 @@
+{
+  "name": "greenery-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anya-pich/greenery-backend.git"
+  },
+  "author": "anya-pich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anya-pich/greenery-backend/issues"
+  },
+  "homepage": "https://github.com/anya-pich/greenery-backend#readme"
+}
